@@ -4,6 +4,15 @@ Aula de Introdução a Grafos
 
 ## Conteúdo
 
+- Introdução
+- Definições
+- Tipos de Grafos
+- Representação de Grafos
+- Busca em Grafos
+- Busca em produndidade (DFS).
+- Busca em largura (BFS).
+
+Slide: https://docs.google.com/presentation/d/1eytfKFQuC2ZglNjyJZeTbobsoUrCT8AHly1JIgrkRyw/edit?usp=sharing
 
 ## Questões:
 
